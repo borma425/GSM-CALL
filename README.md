@@ -21,7 +21,7 @@ git clone https://github.com/yehia-hacker/GSM-CALL
 cd GSM-CALL
 
 4- RUN File
-
+chmod +x *
 ruby GSM-CALL.rb
 
 5- Setup Open new Terminal and Write
