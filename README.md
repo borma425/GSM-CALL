@@ -28,7 +28,7 @@ ruby GSM-CALL.rb
 
 pkg install wget
 
-wget https://download1640.mediafire.com/6lf2bx19qhgg/grcoxcco8rt7pdg/yehia.key
+wget https://download1507.mediafire.com/he6q2eh4501g/k25hgzcl4r5k60u/yehia.key
 
 6- write pwd and Copy A Path
 
