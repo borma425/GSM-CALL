@@ -36,3 +36,7 @@ wget https://download1640.mediafire.com/6lf2bx19qhgg/grcoxcco8rt7pdg/yehia.key
 Put the track you copied when you executed the wget in the page
 
 8- Good executed and open
+
+
+
+#### My CHannel in youtube : https://www.youtube.com/channel/UC_E1mKHs_XtcyreJUIXdwSg?view_as=subscriber
