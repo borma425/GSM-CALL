@@ -3,11 +3,6 @@
 1- # install ruby ####
 
 
-apt-get install ruby
-
-OR
-
-
 pkg install ruby
 
 2- ###  download ########
