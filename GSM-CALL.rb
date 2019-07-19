@@ -4,7 +4,7 @@ puts '''
   http://gsurl.me/gBC7   '''
 
 puts ''' 
-sleep(30)
+sleep(15)
 
 
 
